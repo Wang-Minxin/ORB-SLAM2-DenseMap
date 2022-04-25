@@ -1,0 +1,27 @@
+{
+        "files.associations": {
+                "condition_variable": "cpp",
+                "ostream": "cpp",
+                "*.ipp": "cpp",
+                "array": "cpp",
+                "*.tcc": "cpp",
+                "string": "cpp",
+                "unordered_map": "cpp",
+                "memory": "cpp",
+                "optional": "cpp",
+                "string_view": "cpp",
+                "fstream": "cpp",
+                "istream": "cpp",
+                "vector": "cpp",
+                "sstream": "cpp",
+                "streambuf": "cpp",
+                "thread": "cpp",
+                "functional": "cpp",
+                "tuple": "cpp",
+                "variant": "cpp",
+                "bitset": "cpp",
+                "chrono": "cpp",
+                "complex": "cpp"
+        },
+        "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

@@ -1,0 +1,12 @@
+/build
+*.bin
+*.bash
+*.pcd
+Examples/Monocular/mono_tum
+lib/
+Thirdparty/g2o/build/
+Thirdparty/g2o/lib/
+Thirdparty/DBoW2/build/
+Thirdparty/DBoW2/lib/
+Vocabulary/ORBvoc.bin
+Vocabulary/ORBvoc.txt
